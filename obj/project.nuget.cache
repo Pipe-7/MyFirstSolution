@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0AjPVXrzuItFquYGbNHSh2A7QwkC5LHq1WVMBCrnxmSidkOZkgrq3hpJPghymbam7XY2UYeOGVGZxRdTUXqwBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\MyFirstSolution\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

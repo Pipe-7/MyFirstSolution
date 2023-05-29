@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Perfil 1": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+2023-05-24 00:03:47.655 -05:00 [INF] Hola feke, 10 años, género masculino
